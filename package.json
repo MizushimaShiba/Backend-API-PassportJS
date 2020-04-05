@@ -1,0 +1,35 @@
+{
+  "name": "backend-api-passportjs",
+  "version": "1.0.0",
+  "description": "Server Side Apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MizushimaShiba/Backend-API-PassportJS.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "Sequelize",
+    "REST",
+    "API",
+    "Postgres"
+  ],
+  "author": "MizushimaShiba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MizushimaShiba/Backend-API-PassportJS/issues"
+  },
+  "homepage": "https://github.com/MizushimaShiba/Backend-API-PassportJS#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "pg": "^8.0.0",
+    "sequelize": "^5.21.6"
+  }
+}
